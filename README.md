@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SamWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
@@ -29,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # website
 Personal Website and Blog
->>>>>>> b681fd7ddc55d5e9d4ce4fcc7ac84504030e0b03
+
