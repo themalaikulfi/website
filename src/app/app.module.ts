@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { AboutMeComponent } from './about-me/about-me.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavigationComponent
-  ],
+    NavigationComponent,
+    AboutMeComponent
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule,
